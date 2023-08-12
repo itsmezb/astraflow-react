@@ -50,9 +50,9 @@ export function Features({ as: _Component = _Builtin.Section }) {
                 className={_utils.cx(_styles, "grid_title", "no-mg")}
                 tag="h2"
               >
-                {/* <_Builtin.Span className={_utils.cx(_styles, "title-gray")}> 
+                <_Builtin.Span className={_utils.cx(_styles, "title-gray")}>
                   {"Just a logo"}
-                </_Builtin.Span> */}
+                </_Builtin.Span>
               </_Builtin.Heading>
             </_Builtin.Block>
             <_Builtin.Block

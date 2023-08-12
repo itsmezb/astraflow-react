@@ -10,7 +10,7 @@
   flex-direction: column;
   align-items: center;
 
-  background-color: hsla(0, 0.00%, 0.00%, 0.00);
+  background-color: hsla(219.99999999999997, 88.24%, 96.67%, 1.00);
 }
 
 .navigation-wrap {
@@ -23,7 +23,7 @@
   padding-left: 3%;
   align-items: center;
 
-  background-color: hsla(0, 65.93%, 37.13%, 0.00);
+  background-color: #eff4fe;
 
   color: hsla(0, 0.00%, 0.00%, 1.00);
 }
