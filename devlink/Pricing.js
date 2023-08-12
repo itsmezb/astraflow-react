@@ -59,7 +59,7 @@ export function Pricing({ as: _Component = _Builtin.Section }) {
                 }
               </_Builtin.Paragraph>
               <_Builtin.Link
-                className={_utils.cx(_styles, "price-btn")}
+                className={_utils.cx(_styles, "price-btn", "dark")}
                 button={true}
                 options={{
                   href: "#",
@@ -271,7 +271,7 @@ export function Pricing({ as: _Component = _Builtin.Section }) {
                 }
               </_Builtin.Paragraph>
               <_Builtin.Link
-                className={_utils.cx(_styles, "price-btn")}
+                className={_utils.cx(_styles, "price-btn","dark")}
                 button={true}
                 options={{
                   href: "#",
