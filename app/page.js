@@ -5,7 +5,6 @@ export default function Home() {
   return (
    <>
       <Nav />   
-      <HeroSection />   
       <Features />   
       <Process /> 
       <Pricing /> 
