@@ -333,7 +333,14 @@ export function Features({ as: _Component = _Builtin.Section }) {
                 {"guideline"}
                 <br />
               </_Builtin.Heading>
-      
+            <_Builtin.Image
+                className={_utils.cx(_styles, "styleguide_gif")}
+                loading="lazy"
+                height="auto"
+                width="auto"
+                alt="Logo branding Design Style Guide"
+                src="https://uploads-ssl.webflow.com/615e1039e4188175442dcc09/61601853a694ce186df3c5dc_styleguide.gif"
+              />
             </_Builtin.Block>
           </_Builtin.Block>
           <_Builtin.Block
